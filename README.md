@@ -1,5 +1,3 @@
-Certainly, here's a README file template for your GitHub project, the "Online Doctor Appointment Booking System":
-
 # Online Doctor Appointment Booking System
 
 ## Description
