@@ -32,7 +32,7 @@ The Online Doctor Appointment Booking System is a web-based application that all
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/Mr-AbdulMalik/Online-Doctor-Appointment-Booking-System.git](https://github.com/Mr-AbdulMalik/Online-Doctor-Appointment-Booking-System.git)
+   git clone [https://github.com/Mr-AbdulMalik/Online-Doctor-Appointment-Booking-System.git]
    ```
 
 2. Set up your Java development environment with appropriate JDK.
