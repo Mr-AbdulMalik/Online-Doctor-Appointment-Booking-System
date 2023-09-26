@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+
+#bookbtn{
+    padding: 12px 24px;
+    border-radius: 40px;
+    text-transform: uppercase;
+    background-color: #eea676;
+}
+
+#bookbtn:hover{
+    background-color: #304f4b;
+    color: #eea676;
+    transition-timing-function: ease-in-out;
+}
+
+.primary{
+    background-color: #036c5f;
+}
+
+.secondary{
+    background-color: #eea676;
+}
+
+.primarybtn{
+    background-color: #036c5f;
+}
+
+/*.primarybtn:hover{
+    background-color: #304f4b;
+    color: #eea676;
+    transition-timing-function: ease-in-out;
+}*/
+
