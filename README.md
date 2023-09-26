@@ -69,5 +69,3 @@ Free
 
 - Thanks to the contributors and developers who helped create this project.
 - Inspired by the need for efficient doctor appointment booking systems.
-
-Feel free to customize this README according to your project's specific details and requirements.
